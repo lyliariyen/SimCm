@@ -1,4 +1,4 @@
-#' Simulation d'une loi discrete fois n fois
+#' Simulation d'une loi discrete n fois
 #' @export
 #' @param x numeric vector representing the values of the random variable
 #' @param p numeric vector representing the probabilities
