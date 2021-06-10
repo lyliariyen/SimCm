@@ -3,3 +3,4 @@
 export(rdist)
 export(rdistn)
 export(StatD)
+export(SimCmd)
